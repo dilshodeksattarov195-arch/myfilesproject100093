@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencync",
+        "uuid": 863226,
+        "checksum": "rfyvp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
